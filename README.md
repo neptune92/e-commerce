@@ -12,10 +12,15 @@
 
   ## Installation
   1st Run npm i
+  <br>
   2nd type mysql -u root -p
+  <br>
   3rd type source db/schema.sql then type quit
+  <br>
   4th npm run seed
+  <br>
   5th npm start
+  <br>
   The following link gives a demo on how to use the application: <a href="https://www.youtube.com/watch?v=ZMNC0jZoHfk&ab_channel=AngelaRubio" target="_blank">link</a>
 
 
